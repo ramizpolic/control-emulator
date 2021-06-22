@@ -30,8 +30,8 @@ Make sure to update `mcc_generated_files` based on your board specifications and
 * Clone repository
 * Open MPLAB X
 * Load project
-* Open and configure **realterm**
-* Start communication
+* Open and configure **UART**
+* Start
 
 #### On Linux
 ```bash
@@ -43,6 +43,7 @@ $ git clone https://github.com/fhivemind/microwave-controller.git
 $ make
 $ make flash
 ```
+Note that this is not fully tested on Linux. 
 ---
 
 ## Description
