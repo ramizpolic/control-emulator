@@ -1,0 +1,9 @@
+build/
+debug/
+dist/
+
+# MPLAB IDE
+.generated_files/
+
+# VS IDE
+.vscode
